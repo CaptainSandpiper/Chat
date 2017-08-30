@@ -1,0 +1,79 @@
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe.config
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\bin\Debug\Server.pdb
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.exe
+c:\users\щука\documents\visual studio 2015\Work\Chat2\Server\Server\obj\Debug\Server.pdb
+C:\Users\Сергей\Desktop\Server\Server\bin\Debug\Server.exe.config
+C:\Users\Сергей\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\Сергей\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\Сергей\Desktop\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Server\Server\obj\Debug\Server.exe
+C:\Users\Сергей\Desktop\Server\Server\obj\Debug\Server.pdb
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\Server.exe.config
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\Server.exe
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\Server.pdb
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\Server — копия\Server\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\Server — копия\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Server — копия\Server\obj\Debug\Server.exe
+C:\Users\Сергей\Desktop\Server — копия\Server\obj\Debug\Server.pdb
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\Server.exe.config
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\Server.exe
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\Server.pdb
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\obj\Debug\Server.exe
+C:\Users\Сергей\Desktop\MessengerYLM\Server(with_DB)\Server\obj\Debug\Server.pdb
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\Server.exe.config
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\obj\Debug\Server.exe
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\obj\Debug\Server.pdb
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\Server.exe
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\Server.pdb
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\EntityFramework.dll
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.dll
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\EntityFramework.xml
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.xml
+F:\CHAT ALL VERSIONS!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\Димас 6.0\Server(with_DB)\Server\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\Server.exe.config
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\obj\Debug\Server.exe
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\obj\Debug\Server.pdb
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\Server.exe
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\Server.pdb
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\EntityFramework.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\EntityFramework.xml
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\Server(with_DB)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\Server.exe.config
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\obj\Debug\Server.exe
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\obj\Debug\Server.pdb
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\Server.exe
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\Server.pdb
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\EntityFramework.dll
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\EntityFramework.xml
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\FINAL VERSION\Server(with_DB)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\DISK\Server(with_DB)\Server\bin\Debug\Server.exe.config
+E:\DISK\Server(with_DB)\Server\bin\Debug\Server.exe
+E:\DISK\Server(with_DB)\Server\bin\Debug\Server.pdb
+E:\DISK\Server(with_DB)\Server\bin\Debug\EntityFramework.dll
+E:\DISK\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK\Server(with_DB)\Server\bin\Debug\EntityFramework.xml
+E:\DISK\Server(with_DB)\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK\Server(with_DB)\Server\bin\Debug\ru\EntityFramework.resources.dll
+E:\DISK\Server(with_DB)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\DISK\Server(with_DB)\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\DISK\Server(with_DB)\Server\obj\Debug\Server.exe
+E:\DISK\Server(with_DB)\Server\obj\Debug\Server.pdb

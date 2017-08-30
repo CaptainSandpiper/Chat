@@ -1,0 +1,29 @@
+CREATE database NAME
+
+USE NAME
+CREATE table TTT
+( 
+  T1 char(20) constraint T1NAME_PK primary key,
+  T2 integer NOT NULL,
+  T3 char(30) default 'WHATWANT',
+  T4 real NOT NULL
+)
+
+CREATE table ZZZ
+  (
+    Z1 integer constraint [Z1 PK] primary key,
+    Z2 char(50) constraint [Z2 FK] foreign key
+	                           references TTT(T1),
+   Z3 date NOT NULL,
+	Z4 real
+	)
+
+
+USE Куликуовский_MyBase
+
+INSERT into TTT(T1,T2, T3, T4)
+            values('ИТ',15,'Кримчук Виталий Генадьевич',300),
+	          ('Бухгалтерия',10,'Давыдов Петр Семенович',100),
+	          ('Отдел персонала',5,'Жуковская Мальвина Ивановна',150),
+	          ('Отдел обслуживания',7,'Картанов Семен Дмитриевич',175)
+

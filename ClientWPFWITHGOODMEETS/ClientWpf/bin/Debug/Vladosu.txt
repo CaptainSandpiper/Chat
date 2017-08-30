@@ -1,0 +1,81 @@
+if (currentCommand.Contains("gfile"))
+                    {
+                        string[] Arguments = currentCommand.Split('|');
+                        string fileName = Arguments[1];
+                        string FromName = Arguments[2];
+                        string FileSize = Arguments[3];
+                        string idFile = Arguments[4];
+                        if (fileName.Contains("jpg") || fileName.Contains("png") || fileName.Contains("bmp") || fileName.Contains("ico"))
+                        {
+                            Thread.Sleep(1000);
+                            Send("#yy|" + idFile);
+                            byte[] fileBuffer = new byte[int.Parse(FileSize)];
+                            _serverSocket.Receive(fileBuffer);
+
+                            File.WriteAllBytes(fileName, fileBuffer);
+                            Thread.Sleep(1000);
+
+                            ChatBox.Dispatcher.Invoke(delegate { IsSender = false; setImage(fileName, FromName); });
+                        }
+                        else
+                        {
+                            //MessageBoxResult Result = MessageBox.Show($"Do you want to accept the file { fileName} the size {FileSize} from {FromName}", "File", MessageBoxButton.YesNo);
+                            //if (Result == MessageBoxResult.Yes)
+                            //{
+                                Thread.Sleep(1000);
+                                Send("#yy|" + idFile);
+                                byte[] fileBuffer = new byte[int.Parse(FileSize)];
+                                _serverSocket.Receive(fileBuffer);
+
+                                File.WriteAllBytes(fileName, fileBuffer);
+                                Thread.Sleep(1000);
+                                MessageBox.Show($"File {fileName} by {FromName} was accepted.");
+                                ChatBox.Dispatcher.Invoke(delegate { ChatBox.AppendText("FILE " + fileName + " ACCEPTED." + Environment.NewLine); });
+                                string commandText = fileName;
+                                var proc = new System.Diagnostics.Process();
+                                proc.StartInfo.FileName = commandText;
+                                proc.StartInfo.UseShellExecute = true;
+                                proc.Start();
+                            //}
+
+                            //else
+                            //{
+                            //    ChatBox.Dispatcher.Invoke(delegate { ChatBox.AppendText("FILE " + fileName + " WAS SENT BUT NOT ACCEPTED." + Environment.NewLine); });
+                            //    Send("nn");
+                            //}
+                            continue;
+                        }
+                    }
+
+
+
+   private void SendFile_Click(object sender, RoutedEventArgs e)
+        {
+            if (USERSBOX.SelectedItem == " ")
+            {
+                return;
+            }
+
+            OpenFileDialog ofp = new OpenFileDialog();
+            ofp.ShowDialog();
+            if (!File.Exists(ofp.FileName))
+            {
+                MessageBox.Show($"No selected files!");
+                return;
+            }
+            FileInfo fi = new FileInfo(ofp.FileName);
+            byte[] buffer = File.ReadAllBytes(ofp.FileName);
+            Send($"#sendfileto|{USERSBOX.SelectedItem}|{buffer.Length}|{fi.Name}");//g
+            Thread.Sleep(1000);
+            Send(buffer);
+            Thread.Sleep(1000);
+            if (fi.Name.Contains(".jpg") || fi.Name.Contains(".png") || fi.Name.Contains(".bmp") || fi.Name.Contains(".ico"))
+            {
+                File.WriteAllBytes(fi.Name, buffer);
+                setImage(fi.Name, Login.nam.ToUpper());
+            }
+            else
+            {
+                ChatBox.AppendText("FILE " + fi.Name + " WAS SENT." + Environment.NewLine);
+            }
+        }

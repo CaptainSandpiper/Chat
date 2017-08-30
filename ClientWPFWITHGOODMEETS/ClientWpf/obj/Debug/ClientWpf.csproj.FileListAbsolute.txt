@@ -1,0 +1,398 @@
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe.config
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\bin\Debug\ClientWpf.pdb
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\MainWindow.g.cs
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\App.g.cs
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\MainWindow.baml
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.g.resources
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\КГИГ\ClientWpf\ClientWpf\obj\Debug\ClientWpf.pdb
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe.config
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\bin\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\bin\Debug\ClientWpf.pdb
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\MainWindow.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\App.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\MainWindow.baml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.g.resources
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_Content.g.cs
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач(СТАРТАП)\ClientWpf — копия\ClientWpf\obj\Debug\Login.baml
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.exe.config
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\Login.g.cs
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_Content.g.cs
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\Login.baml
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.g.resources
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\Registration.g.cs
+C:\Users\Сергей\Desktop\ClientWpf — копия\ClientWpf\obj\Debug\Registration.baml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\ClientWpf.exe.config
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\ClientWpf.pdb
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\EntityFramework.dll
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\EntityFramework.xml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\Login.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\MainWindow.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\Registration.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\App.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf_Content.g.cs
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\Login.baml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\MainWindow.baml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\Registration.baml
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.g.resources
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.exe
+D:\Учёба\2 курс 2 семестр\Курсовая\ClientWpf(with registration)\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\Login.g.cs
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\Registration.g.cs
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf_Content.g.cs
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\ClientWpf.exe.config
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\Login.baml
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\Registration.baml
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.g.resources
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+C:\Users\Сергей\Desktop\ClientWpf(with registration) — копия\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe.config
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\ClientWpf.pdb
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\EntityFramework.dll
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\EntityFramework.xml
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\Login.g.cs
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\Registration.g.cs
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\Login.baml
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\Registration.baml
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.g.resources
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.exe
+C:\Users\Сергей\Desktop\MessengerYLM\ClientWPF\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\Login.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\Login.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач(СТАРТАП)\Version 2.0\ClientWPF lll\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\Version2\ClientWPF\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\Version2\ClientWPF\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\Version2\ClientWPF — копия\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\FINAL VERSION V 0.1\ClientWPF WITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\FINAL VERSION V 0.1\ClientWPF WITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\FINAL VERSION V 0.1\ClientWPF WITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\FINAL VERSION V 0.1\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\FIVE\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.baml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\FIVE — копия\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.baml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\ВЕРСИЯ ОТ 30\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.baml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\Курсач\FINAL VERSION\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe.config
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.exe
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ClientWpf.pdb
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.dll
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.dll
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.xml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\EntityFramework.SqlServer.xml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\bin\Debug\ru\EntityFramework.resources.dll
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csprojResolveAssemblyReference.cache
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\App.g.cs
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.cache
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf_MarkupCompile.lref
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Login.baml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\MainWindow.baml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Registration.baml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\Result.baml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\SelectDate.baml
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.g.resources
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.Properties.Resources.resources
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.GenerateResource.Cache
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.csproj.CoreCompileInputs.cache
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.exe
+E:\DISK\ClientWPFWITHGOODMEETS\ClientWpf\obj\Debug\ClientWpf.pdb

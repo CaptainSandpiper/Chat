@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище YLMModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "YLM.dbo.Content" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Content">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="content" Type="text" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "YLM.dbo.Groups" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Groups">
+    <Key>
+      <PropertyRef Name="group name" />
+    </Key>
+    <Property Name="group name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="id_admin" Type="nvarchar" MaxLength="20" />
+    <Property Name="id_group" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "YLM.dbo.Messages" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Messages">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="to_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="from_id" Type="nvarchar" MaxLength="20" />
+    <Property Name="content_id" Type="nvarchar(max)" />
+    <Property Name="create_at" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <!--Ошибки, обнаруженные при создании:
+предупреждение 6002: В таблице или представлении "YLM.dbo.Users" не определен первичный ключ. Ключ был выведен, а определение таблицы или представления было создано в режиме только для чтения.-->
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityContainer Name="Хранилище YLMModelContainer">
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Content" EntityType="Self.Content" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Content].[id] AS [id], 
+    [Content].[content] AS [content]
+    FROM [dbo].[Content] AS [Content]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Groups" EntityType="Self.Groups" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Groups].[group name] AS [group name], 
+    [Groups].[id_admin] AS [id_admin], 
+    [Groups].[id_group] AS [id_group]
+    FROM [dbo].[Groups] AS [Groups]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Messages" EntityType="Self.Messages" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Messages].[id] AS [id], 
+    [Messages].[to_id] AS [to_id], 
+    [Messages].[from_id] AS [from_id], 
+    [Messages].[content_id] AS [content_id], 
+    [Messages].[create_at] AS [create_at]
+    FROM [dbo].[Messages] AS [Messages]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="Users" EntityType="Self.Users" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Users].[id] AS [id], 
+    [Users].[name] AS [name], 
+    [Users].[password] AS [password]
+    FROM [dbo].[Users] AS [Users]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>
